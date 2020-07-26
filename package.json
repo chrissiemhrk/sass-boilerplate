@@ -1,0 +1,16 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "sass worflow boilerplate with gulp and browsersync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chrissie Muhorakeye <chrissiemhrk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
