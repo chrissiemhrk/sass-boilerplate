@@ -52,3 +52,9 @@ object,
 video {
   max-width: 100%;
 }
+
+button,
+input {
+  min-width: 48px;
+  min-height: 48px;
+}
