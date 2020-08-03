@@ -1,0 +1,47 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 1.3;
+}
+
+main {
+  padding: 20px;
+  background-color: $white;
+  border-radius: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  @media #{$mq-1000-up} {
+    display: flex;
+    padding: 1.5rem;
+  }
+}
+
+.content {
+  @media #{$mq-1000-up} {
+    flex: 3;
+  }
+}
+
+aside {
+  @media #{$mq-1000-up} {
+    flex: 1;
+  }
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
