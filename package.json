@@ -1,11 +1,11 @@
 {
-  "name": "sass-boilerplate",
+  "name": "frontend-boilerplate",
   "version": "1.0.0",
-  "description": "sass workflow boilerplate with gulp and browsersync",
+  "description": "frontend workflow boilerplate with gulp and browsersync",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrissiemhrk/sass-boilerplate.git"
+    "url": "git+https://github.com/chrissiemhrk/frontend-boilerplate.git"
   },
   "scripts": {
     "start": "gulp watch"
