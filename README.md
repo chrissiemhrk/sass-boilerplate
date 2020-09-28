@@ -1,6 +1,6 @@
-# sass-boilerplate
+# Front-end boilerplate
 
-Sass workflow boilerplate with gulp and browsersync
+Front-end workflow boilerplate with sass, tailwindcss, gulp and browsersync.
 
 ## Usage
 
